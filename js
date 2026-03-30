@@ -1,4 +1,3 @@
-// Update Name
 document.getElementById("updateBtn").addEventListener("click", () => {
   const input = document.getElementById("nameInput").value;
 
